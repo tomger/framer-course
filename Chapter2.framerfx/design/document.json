@@ -59,7 +59,6 @@
             "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
             "navigationTransitionDirection" : "left",
             "opacity" : 1,
-            "originalFilename" : "",
             "originalid" : "kwJdBtZ8b",
             "parentid" : "JlY7leXJA",
             "previewSettings" : null,
@@ -299,9 +298,7 @@
                     "top" : 74,
                     "visible" : true,
                     "width" : 123,
-                    "widthType" : 0,
-                    "x" : 31,
-                    "y" : 27
+                    "widthType" : 0
                   },
                   {
                     "__class" : "TextNode",
@@ -391,9 +388,7 @@
                     "top" : 94,
                     "visible" : true,
                     "width" : 38,
-                    "widthType" : 0,
-                    "x" : 31,
-                    "y" : 27
+                    "widthType" : 0
                   },
                   {
                     "__class" : "TextNode",
@@ -483,9 +478,7 @@
                     "top" : 94,
                     "visible" : true,
                     "width" : 134,
-                    "widthType" : 0,
-                    "x" : 31,
-                    "y" : 27
+                    "widthType" : 0
                   },
                   {
                     "__class" : "TextNode",
@@ -575,9 +568,7 @@
                     "top" : 26,
                     "visible" : true,
                     "width" : 133,
-                    "widthType" : 0,
-                    "x" : 31,
-                    "y" : 27
+                    "widthType" : 0
                   },
                   {
                     "__class" : "TextNode",
@@ -667,9 +658,7 @@
                     "top" : 54,
                     "visible" : true,
                     "width" : 22,
-                    "widthType" : 0,
-                    "x" : 31,
-                    "y" : 27
+                    "widthType" : 0
                   },
                   {
                     "__class" : "FrameNode",
@@ -719,7 +708,6 @@
                     "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
                     "navigationTransitionDirection" : "left",
                     "opacity" : 1,
-                    "originalFilename" : "",
                     "originalid" : null,
                     "parentid" : "tEDDODdZG",
                     "previewSettings" : null,
@@ -922,9 +910,7 @@
                         "top" : 6,
                         "visible" : true,
                         "width" : 47,
-                        "widthType" : 0,
-                        "x" : 31,
-                        "y" : 27
+                        "widthType" : 0
                       },
                       {
                         "__class" : "ShapeContainerNode",
@@ -1272,9 +1258,7 @@
                     "top" : 54,
                     "visible" : true,
                     "width" : 55,
-                    "widthType" : 0,
-                    "x" : 31,
-                    "y" : 27
+                    "widthType" : 0
                   },
                   {
                     "__class" : "FrameNode",
@@ -1324,7 +1308,6 @@
                     "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
                     "navigationTransitionDirection" : "left",
                     "opacity" : 1,
-                    "originalFilename" : "",
                     "originalid" : null,
                     "parentid" : "tEDDODdZG",
                     "previewSettings" : null,
@@ -1464,9 +1447,7 @@
                     "top" : null,
                     "visible" : true,
                     "width" : 333,
-                    "widthType" : 0,
-                    "x" : 29,
-                    "y" : 323
+                    "widthType" : 0
                   },
                   {
                     "__class" : "FrameNode",
@@ -1753,7 +1734,6 @@
         "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
         "navigationTransitionDirection" : "left",
         "opacity" : 1,
-        "originalFilename" : "",
         "originalid" : null,
         "parentid" : "gPL_xnLRB",
         "previewSettings" : null,
@@ -1820,7 +1800,6 @@
         "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
         "navigationTransitionDirection" : "left",
         "opacity" : 1,
-        "originalFilename" : "",
         "originalid" : null,
         "parentid" : "gPL_xnLRB",
         "previewSettings" : null,
@@ -1887,7 +1866,6 @@
         "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
         "navigationTransitionDirection" : "left",
         "opacity" : 1,
-        "originalFilename" : "",
         "originalid" : null,
         "parentid" : "gPL_xnLRB",
         "previewSettings" : null,
@@ -2015,9 +1993,7 @@
             "top" : 74,
             "visible" : true,
             "width" : 123,
-            "widthType" : 0,
-            "x" : 31,
-            "y" : 27
+            "widthType" : 0
           },
           {
             "__class" : "TextNode",
@@ -2107,9 +2083,7 @@
             "top" : 94,
             "visible" : true,
             "width" : 38,
-            "widthType" : 0,
-            "x" : 31,
-            "y" : 27
+            "widthType" : 0
           },
           {
             "__class" : "TextNode",
@@ -2199,9 +2173,7 @@
             "top" : 94,
             "visible" : true,
             "width" : 134,
-            "widthType" : 0,
-            "x" : 31,
-            "y" : 27
+            "widthType" : 0
           },
           {
             "__class" : "TextNode",
@@ -2291,9 +2263,7 @@
             "top" : 26,
             "visible" : true,
             "width" : 133,
-            "widthType" : 0,
-            "x" : 31,
-            "y" : 27
+            "widthType" : 0
           },
           {
             "__class" : "TextNode",
@@ -2383,9 +2353,7 @@
             "top" : 54,
             "visible" : true,
             "width" : 22,
-            "widthType" : 0,
-            "x" : 31,
-            "y" : 27
+            "widthType" : 0
           },
           {
             "__class" : "FrameNode",
@@ -2435,7 +2403,6 @@
             "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
             "navigationTransitionDirection" : "left",
             "opacity" : 1,
-            "originalFilename" : "",
             "originalid" : null,
             "parentid" : "sxWUqWkCX",
             "previewSettings" : null,
@@ -2626,9 +2593,7 @@
                 "top" : 6,
                 "visible" : true,
                 "width" : 47,
-                "widthType" : 0,
-                "x" : 31,
-                "y" : 27
+                "widthType" : 0
               },
               {
                 "__class" : "ShapeContainerNode",
@@ -2976,9 +2941,7 @@
             "top" : 54,
             "visible" : true,
             "width" : 55,
-            "widthType" : 0,
-            "x" : 31,
-            "y" : 27
+            "widthType" : 0
           },
           {
             "__class" : "FrameNode",
@@ -3028,7 +2991,6 @@
             "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
             "navigationTransitionDirection" : "left",
             "opacity" : 1,
-            "originalFilename" : "",
             "originalid" : null,
             "parentid" : "sxWUqWkCX",
             "previewSettings" : null,
@@ -3168,9 +3130,7 @@
             "top" : null,
             "visible" : true,
             "width" : 333,
-            "widthType" : 0,
-            "x" : 29,
-            "y" : 323
+            "widthType" : 0
           },
           {
             "__class" : "FrameNode",
@@ -3342,7 +3302,6 @@
         "navigationTransitionBackdropColor" : "rgba(4,4,15,.4)",
         "navigationTransitionDirection" : "left",
         "opacity" : 1,
-        "originalFilename" : "",
         "originalid" : null,
         "parentid" : "gPL_xnLRB",
         "previewSettings" : null,
