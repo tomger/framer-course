@@ -464,10 +464,7 @@
               }
             ],
             "clip" : false,
-            "codeOverrideEnabled" : true,
-            "codeOverrideFile" : ".\/App.tsx",
-            "codeOverrideIdentifier" : ".\/App.tsx_makeBlue",
-            "codeOverrideName" : "makeBlue",
+            "codeOverrideEnabled" : false,
             "constraintsLocked" : false,
             "deviceType" : null,
             "exportOptions" : [
